@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Tejas Morajkar
 - 👀 I’m interested in building robust, flexible and scalable applications
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on projects which provides good learning oppurtunities
+- 💞️ I’m looking to collaborate on projects which provides good learning opportunities
 - 📫 How to reach me LinkedIn: https://www.linkedin.com/in/tmorajk/ Email: tmorajk@gmail.com
 
 <!---
